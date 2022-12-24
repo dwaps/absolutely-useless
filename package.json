@@ -1,0 +1,39 @@
+{
+  "name": "absolutely-useless",
+  "version": "0.0.0-beta.0",
+  "description": "Try to see...",
+  "main": "index.js",
+  "bin": "./index.js",
+  "private": false,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "dwaps",
+    "dwaps formation",
+    "ei dwaps",
+    "michael",
+    "cornillon",
+    "michael cornillon",
+    "cornillon michael",
+    "dwaps",
+    "ei dwaps",
+    "dwaps formation",
+    "cli",
+    "useless"
+  ],
+  "author": "Cornillon Michael <contact@dwaps.fr> (https://dwaps.fr/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwaps/absolutely-useless/issues"
+  },
+  "homepage": "https://github.com/dwaps/absolutely-useless#readme",
+  "contributors": [
+    "Michael CORNILLON <ei.dwaps+absolutely-useless@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwaps/absolutely-useless.git"
+  }
+}
